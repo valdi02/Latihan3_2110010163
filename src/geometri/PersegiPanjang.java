@@ -25,4 +25,4 @@ public class PersegiPanjang {
     public double keliling() {
         return 2 * (panjang + lebar);
     }
-}
+} 
